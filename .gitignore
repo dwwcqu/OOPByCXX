@@ -1,5 +1,11 @@
+# PDF
+# Object-Oriented-Programming-C++-Simplified.pdf
+
 # Prerequisites
 *.d
+
+# .vscode
+.vscode
 
 # Compiled Object files
 *.slo
