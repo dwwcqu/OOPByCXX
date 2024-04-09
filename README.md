@@ -1,15 +1,8 @@
-# OOPByCXX
-<center>
-<img src="./images/OOPByCXX.png" alt="OOP" width=400>
-</center>
+# 面向对象编程和思考
 
-*Object Oriented Programming C++ Simplified learning documents.*
+本仓库主要记录学习面向对象编程和思想内容时，做的一些学习上的知识和代码记录。
 
-本仓库主要记录学习《Object Oriented Programming C++ Simplified》
-一书过程中，一些重要笔记和代码测试。
+目前的话，包括：
 
-## 1. 目录
-
-+ [O. OOPs 简介](./Chapter/ch0.md)
-+ [1. 面向对象设计简介]()
-+ [2. C++]()
+1. [面向对象编程语言的学习(C++)](./OOPCXX/README_OOPCXX.md)
+2. [面向对象思考过程](./OOTP5thEd/README_OOTP5thEd.md)
